@@ -32,7 +32,8 @@ class Board
   end
 
   def column_numbers
-    " 0 1 2 3 4 5 6 \n" end
+    " 0 1 2 3 4 5 6 \n"
+  end
 
   def game_won?
     false
